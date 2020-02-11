@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/esteban/CLionProjects/automatic_assignations/include/utils/console.hpp
+unordered_map
+-
+iostream
+-
+string
+-
+
+/Users/esteban/CLionProjects/automatic_assignations/include/utils/main.cpp
+console.hpp
+/Users/esteban/CLionProjects/automatic_assignations/include/utils/console.hpp
+

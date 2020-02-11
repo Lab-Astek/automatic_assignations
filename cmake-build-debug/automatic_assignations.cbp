@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="automatic_assignations"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/esteban/CLionProjects/automatic_assignations/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/esteban/CLionProjects/automatic_assignations/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/esteban/CLionProjects/automatic_assignations/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/esteban/CLionProjects/automatic_assignations/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/esteban/CLionProjects/automatic_assignations/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/esteban/CLionProjects/automatic_assignations/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/esteban/CLionProjects/automatic_assignations/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/esteban/CLionProjects/automatic_assignations/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/esteban/CLionProjects/automatic_assignations/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/esteban/CLionProjects/automatic_assignations/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/esteban/CLionProjects/automatic_assignations/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/esteban/CLionProjects/automatic_assignations/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/esteban/CLionProjects/automatic_assignations/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/esteban/CLionProjects/automatic_assignations/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/esteban/CLionProjects/automatic_assignations/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="automatic_assignations">
+				<Option output="/Users/esteban/CLionProjects/automatic_assignations/cmake-build-debug/automatic_assignations" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/esteban/CLionProjects/automatic_assignations/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/esteban/CLionProjects/automatic_assignations/include"/>
+					<Add directory="/usr/local/Cellar/gcc/9.2.0_1/lib/gcc/9/gcc/x86_64-apple-darwin18/9.2.0/../../../../../../include/c++/9.2.0"/>
+					<Add directory="/usr/local/Cellar/gcc/9.2.0_1/lib/gcc/9/gcc/x86_64-apple-darwin18/9.2.0/../../../../../../include/c++/9.2.0/x86_64-apple-darwin18"/>
+					<Add directory="/usr/local/Cellar/gcc/9.2.0_1/lib/gcc/9/gcc/x86_64-apple-darwin18/9.2.0/../../../../../../include/c++/9.2.0/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/9.2.0_1/lib/gcc/9/gcc/x86_64-apple-darwin18/9.2.0/include"/>
+					<Add directory="/usr/local/Cellar/gcc/9.2.0_1/lib/gcc/9/gcc/x86_64-apple-darwin18/9.2.0/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/esteban/CLionProjects/automatic_assignations/cmake-build-debug/Makefile&quot;  VERBOSE=1 automatic_assignations"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/esteban/CLionProjects/automatic_assignations/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/esteban/CLionProjects/automatic_assignations/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/esteban/CLionProjects/automatic_assignations/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="automatic_assignations/fast">
+				<Option output="/Users/esteban/CLionProjects/automatic_assignations/cmake-build-debug/automatic_assignations" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/esteban/CLionProjects/automatic_assignations/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/esteban/CLionProjects/automatic_assignations/include"/>
+					<Add directory="/usr/local/Cellar/gcc/9.2.0_1/lib/gcc/9/gcc/x86_64-apple-darwin18/9.2.0/../../../../../../include/c++/9.2.0"/>
+					<Add directory="/usr/local/Cellar/gcc/9.2.0_1/lib/gcc/9/gcc/x86_64-apple-darwin18/9.2.0/../../../../../../include/c++/9.2.0/x86_64-apple-darwin18"/>
+					<Add directory="/usr/local/Cellar/gcc/9.2.0_1/lib/gcc/9/gcc/x86_64-apple-darwin18/9.2.0/../../../../../../include/c++/9.2.0/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/9.2.0_1/lib/gcc/9/gcc/x86_64-apple-darwin18/9.2.0/include"/>
+					<Add directory="/usr/local/Cellar/gcc/9.2.0_1/lib/gcc/9/gcc/x86_64-apple-darwin18/9.2.0/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/esteban/CLionProjects/automatic_assignations/cmake-build-debug/Makefile&quot;  VERBOSE=1 automatic_assignations/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/esteban/CLionProjects/automatic_assignations/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/esteban/CLionProjects/automatic_assignations/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/esteban/CLionProjects/automatic_assignations/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/esteban/CLionProjects/automatic_assignations/main.cpp">
+			<Option target="automatic_assignations"/>
+		</Unit>
+		<Unit filename="/Users/esteban/CLionProjects/automatic_assignations/src/Activity.cpp">
+			<Option target="automatic_assignations"/>
+		</Unit>
+		<Unit filename="/Users/esteban/CLionProjects/automatic_assignations/src/Astek.cpp">
+			<Option target="automatic_assignations"/>
+		</Unit>
+		<Unit filename="/Users/esteban/CLionProjects/automatic_assignations/src/Availability.cpp">
+			<Option target="automatic_assignations"/>
+		</Unit>
+		<Unit filename="/Users/esteban/CLionProjects/automatic_assignations/src/Planning.cpp">
+			<Option target="automatic_assignations"/>
+		</Unit>
+		<Unit filename="/Users/esteban/CLionProjects/automatic_assignations/src/Team.cpp">
+			<Option target="automatic_assignations"/>
+		</Unit>
+		<Unit filename="/Users/esteban/CLionProjects/automatic_assignations/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

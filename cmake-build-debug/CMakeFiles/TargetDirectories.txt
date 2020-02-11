@@ -1,0 +1,3 @@
+/Users/esteban/CLionProjects/automatic_assignations/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/esteban/CLionProjects/automatic_assignations/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/esteban/CLionProjects/automatic_assignations/cmake-build-debug/CMakeFiles/automatic_assignations.dir
